@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "730388379691",
+    "firebase_url": "https://vk-app-e5bd3.firebaseio.com",
+    "project_id": "vk-app-e5bd3",
+    "storage_bucket": "vk-app-e5bd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730388379691:android:2654d11b0d75b97bcf526e",
+        "android_client_info": {
+          "package_name": "com.example.vk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730388379691-i7vfh6q9j4g2f5fiad0e5v17s91p16js.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vk",
+            "certificate_hash": "56a9fd36b934ab8337b9987e9764470160d11a97"
+          }
+        },
+        {
+          "client_id": "730388379691-l60badtu2ijikf9mj1oevtrvehbkrsoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASq7W9NwjfEZcCdpbz-ZiCXgdQ-VadhpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730388379691-l60badtu2ijikf9mj1oevtrvehbkrsoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
